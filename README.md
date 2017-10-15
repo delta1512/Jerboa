@@ -1,2 +1,2 @@
 # Jerboa
-Translator
+[Translator](https://github.com/Neltas/Jerboa)
